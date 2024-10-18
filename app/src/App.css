@@ -1,45 +1,43 @@
 .titulo {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 24px;
   text-align: center;
   justify-content: center;
-  margin-top: 200px; 
+  margin-top: 200px;
   margin-left: 30%;
   width: 40%;
 }
 
-
 .cultura_titulo {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 22px;
   text-align: center;
   justify-content: center;
-  margin-top: 200px; 
+  margin-top: 200px;
   margin-left: 30%;
   width: 40%;
 }
 
 .valores {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 30px;
   text-align: center;
   margin-top: 100px;
   margin-left: 30%;
   margin-right: 30%;
   transform: translateY(30px);
-
 }
 
 .line {
   padding-top: 0;
   align-content: center;
-  border: 1px solid #448E8E; /* Cor da linha */
+  border: 1px solid #448e8e; /* Cor da linha */
   width: 60%; /* Ajuste a largura conforme necessário */
   margin: 5px auto 0 auto; /* Ajuste a margem para aproximar do texto */
 }
 .valores_texto {
   margin-top: 10px;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 20px;
   text-align: left;
   margin-left: 27%;
@@ -48,25 +46,23 @@
   width: 50%;
 }
 
-.division{
+.division {
   margin-top: 150px;
   margin-bottom: 150px;
   width: 90%;
 }
 
-
 .servicos_titulo {
   width: 40%; /* Ajuste a largura conforme necessário */
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 30px;
   text-align: left;
   margin-left: 20%;
-  margin-top: 0;  
+  margin-top: 0;
 }
 
-.servicos_texto{
-
-  font-family: 'Inter', sans-serif;
+.servicos_texto {
+  font-family: "Inter", sans-serif;
   font-size: 20px;
   text-align: left;
   margin-top: 10px;
@@ -76,16 +72,16 @@
   width: 50%;
 }
 
-.servicos{
+.servicos {
   margin-right: 20%;
 }
 .servico_item {
-  background: linear-gradient(0,#590F4D, #400931 );
+  background: linear-gradient(0, #590f4d, #400931);
   border-radius: 8px;
   padding: 20px;
   color: white;
   text-align: center;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 16px;
   display: flex;
   align-items: center;
@@ -100,7 +96,7 @@
 }
 
 .parceiros_titulo {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 22px;
   text-align: center;
   justify-content: center;
@@ -144,7 +140,6 @@
   background: linear-gradient(to right, rgba(255, 255, 255, 0), #141619);
 }
 
-
 .logos-slide {
   display: inline-block;
   animation: 10s slide infinite linear;
@@ -156,23 +151,19 @@
   margin: 0 70px;
 }
 
-
-.parceiros_texto{
-
+.parceiros_texto {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-
 }
 
+.division_slide_up {
+  border: 1px solid #448e8e;
 
-.division_slide_up{
-  border: 1px solid #448E8E;
-  
   margin-top: 80px;
   width: 90%;
 }
-.division_slide_down{
-  border: 1px solid #448E8E;
+.division_slide_down {
+  border: 1px solid #448e8e;
   width: 90%;
 }
