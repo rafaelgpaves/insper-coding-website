@@ -1,0 +1,101 @@
+.titulo {
+  font-family: 'Inter', sans-serif;
+  font-size: 24px;
+  text-align: center;
+  justify-content: center;
+  margin-top: 200px; 
+  margin-left: 30%;
+  width: 40%;
+}
+
+
+.cultura_titulo {
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  text-align: center;
+  justify-content: center;
+  margin-top: 200px; 
+  margin-left: 30%;
+  width: 40%;
+}
+
+.valores {
+  font-family: 'Inter', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 200px;
+  margin-left: 30%;
+  margin-right: 30%;
+  transform: translateY(30px);
+
+}
+
+.line {
+  padding-top: 0;
+  align-content: center;
+  border: 1px solid #448E8E; /* Cor da linha */
+  width: 60%; /* Ajuste a largura conforme necessário */
+  margin: 5px auto 0 auto; /* Ajuste a margem para aproximar do texto */
+}
+.valores_texto {
+  margin-top: 10px;
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  text-align: left;
+  margin-left: 27%;
+  margin-right: 30%;
+  padding-bottom: 0;
+  width: 50%;
+}
+
+.division{
+  margin-top: 150px;
+  margin-bottom: 150px;
+  width: 90%;
+}
+
+
+.servicos_titulo {
+  border: 1px solid #448E8E; /* Cor da linha */
+  width: 40%; /* Ajuste a largura conforme necessário */
+  font-family: 'Inter', sans-serif;
+  font-size: 30px;
+  text-align: left;
+  margin-left: 20%;
+  margin-top: 0;  
+}
+
+.servicos_texto{
+
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  text-align: left;
+  margin-top: 10px;
+  margin-left: 20%;
+  margin-right: 30%;
+  padding-bottom: 0;
+  width: 50%;
+}
+
+.servicos{
+  margin-right: 20%;
+}
+.servico_item {
+  background: linear-gradient(0,#590F4D, #400931 );
+  border-radius: 8px;
+  padding: 20px;
+  color: white;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  height: 70px;
+}
+
+.servico_icon {
+  width: 50px;
+  height: 50px;
+  margin-right: 5px;
+  padding-right: 100px;
+}
